@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 hint line 1
 hint line 2
 hint line 3
 
+=======
+hint #1 :
+
+I am mohamed ali and i am currently modify hint.txt
+>>>>>>> feature1

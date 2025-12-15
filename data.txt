@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 data line 1
 data line 2
 data line 3
 data line 4
+=======
+I am mohamed ali .23 years old.
+
+one extra line
+>>>>>>> feature1
